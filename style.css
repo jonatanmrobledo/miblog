@@ -1,0 +1,17 @@
+/*tres tipos de selectores*/
+/*selector de elementos, ejemplo H1*/
+h1 {
+    background-color: brown;
+    color: yellow;
+    border: 4px dotted black;
+}
+/*selector de ID, se utiliza el numeral*/
+#nav {
+    background-color: aquamarine;
+}
+/*selector de clase, en este caso se arranca con un punto(.)*/
+.titulo {
+    background-color: brown;
+    color: yellow;
+    border: 4px dotted black;
+}
